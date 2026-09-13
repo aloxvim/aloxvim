@@ -26,11 +26,11 @@
 
 <div align="center">
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=alockgoy&repo=gestion-gastos&theme=radical)](https://github.com/alockgoy/gestion-gastos)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=alockgoy&repo=proyecto_final_2daw&theme=radical)](https://github.com/alockgoy/proyecto_final_2daw)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=aloxvim&repo=gestion-gastos&theme=radical)](https://github.com/aloxvim/gestion-gastos)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=aloxvim&repo=proyecto_final_2daw&theme=radical)](https://github.com/aloxvim/proyecto_final_2daw)
 
-[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=alockgoy&repo=free_pc_games_telegram_bot&theme=radical)](https://github.com/alockgoy/free_pc_games_telegram_bot)
-[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=alockgoy&repo=telegram_wol_bot&theme=radical)](https://github.com/alockgoy/telegram_wol_bot)
+[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=aloxvim&repo=free_pc_games_telegram_bot&theme=radical)](https://github.com/aloxvim/free_pc_games_telegram_bot)
+[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=aloxvim&repo=telegram_wol_bot&theme=radical)](https://github.com/aloxvim/telegram_wol_bot)
 
 </div>
 
@@ -38,17 +38,17 @@
 
 <div align="center">
   
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=alockgoy&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=aloxvim&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=alockgoy&layout=compact&theme=radical&langs_count=8)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=aloxvim&layout=compact&theme=radical&langs_count=8)
 
-![Racha de contribuciones](https://github-contributor-stats.vercel.app/api?username=alockgoy)
+![Racha de contribuciones](https://github-contributor-stats.vercel.app/api?username=aloxvim)
 </div>
 
 ---
 
 <div align="center">
   
-![Visitas al perfil](https://komarev.com/ghpvc/?username=alockgoy&color=blueviolet&style=flat-square&label=Visitas+al+perfil)
+![Visitas al perfil](https://komarev.com/ghpvc/?username=aloxvim&color=blueviolet&style=flat-square&label=Visitas+al+perfil)
 
 </div>
