@@ -8,7 +8,7 @@
 
 ## 👨‍💻Sobre mí
 
-- 🎓 **Formación:** Sistemas micro-informáticos y redes (SMR) y Desarrollode Aplicaciones Web (DAW).
+- 🎓 **Formación:** Sistemas micro-informáticos y redes (SMR) y Desarrollo de Aplicaciones Web (DAW).
 - 🧠 **Actualmente:** Opositor a **Técnico de Auxiliar Informática**.
 - 🌍 **Idiomas:** Español (Nativo) | Inglés (B2 - Cambridge).
 - 💼 **Otras:**
