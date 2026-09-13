@@ -1,5 +1,11 @@
 # Hola, soy Alonso 👋
 
+<div align="center">
+  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aloxvim/)
+
+</div>
+
 ## 👨‍💻Sobre mí
 
 - 🎓 **Formación:** Sistemas micro-informáticos y redes (SMR) y Desarrollode Aplicaciones Web (DAW).
